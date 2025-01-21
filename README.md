@@ -4,7 +4,7 @@
 
 🎯 Objetivo del Proyecto
 
-El proyecto consistió surge a partir de un curso de capacitación en Power BI para aprender a utilizar esta herramienta en el análisis y visualización de datos, clave para la toma de decisiones estratégicas en entornos empresariales.
+El proyecto consistió surge a partir de un curso de capacitación en Power BI para potenciar el uso de esta herramienta en el análisis y visualización de datos, clave para la toma de decisiones estratégicas en entornos empresariales.
 
 <div align="center">
   <img src="Imagenes/Portada.jpg" alt="Portada" style="max-width: 100%; height: auto;">
