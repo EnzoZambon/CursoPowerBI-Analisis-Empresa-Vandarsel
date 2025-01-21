@@ -1,4 +1,10 @@
-✨ Proyecto Ficticio de Vanarsel
+<div align="center">
+  <h1 style="font-size: 50px;"> ✨ Proyecto Ficticio de Vanarsel 💰</h1>
+</div>
+
+<div align="center">
+  <img src="Imagenes/Portada.jpg" alt="Portada" style="max-width: 100%; height: auto;">
+</div>
 
 🎯 Objetivo del Proyecto
 
