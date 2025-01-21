@@ -6,6 +6,10 @@
 
 El proyecto consistió surge a partir de un curso de capacitación en Power BI para aprender a utilizar esta herramienta en el análisis y visualización de datos, clave para la toma de decisiones estratégicas en entornos empresariales.
 
+<div align="center">
+  <img src="Imagenes/Portada.jpg" alt="Portada" style="max-width: 100%; height: auto;">
+</div>
+
 🗂️ Estructura del Curso:
 
 Módulo 1: Introducción al análisis de datos y fundamentos de Power BI.
@@ -19,6 +23,10 @@ Módulo 4: Introducción a DAX (Data Analysis Expressions).
 Módulo 5: Creación de visualizaciones impactantes.
 
 Módulo 6: Publicación y uso del servicio de Power BI para compartir informes.
+
+<div align="center">
+  <img src="Imagenes/Hoja1.jpg" alt="Portada" style="max-width: 100%; height: auto;">
+</div>
 
 🗃️ Conjunto de Datos Utilizados
 
@@ -42,6 +50,10 @@ Publicar y compartir paneles de manera profesional.
 
 Resolver un trabajo práctico final que simula un caso de negocio.
 
+<div align="center">
+  <img src="Imagenes/Hoja3.jpg" alt="Portada" style="max-width: 100%; height: auto;">
+</div>
+
 🌟 Ejercicios Prácticos Destacados
 
 Creación de medidas y columnas calculadas con DAX.
@@ -60,3 +72,6 @@ Proveer una experiencia práctica alineada a escenarios reales, mejorando las ha
 
 El proyecto culminó con la creación y publicación de paneles interactivos en Power BI, integrando todos los conocimientos adquiridos durante el curso. 🎉
 
+<div align="center">
+  <img src="Imagenes/Hoja4.jpg" alt="Portada" style="max-width: 100%; height: auto;">
+</div>
